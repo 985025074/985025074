@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying in Harbin Institute Of Tec.
+- 🔭 I’m currently studying.
 
 - 📫 How to reach me: 985025074
 - 😄 Pronouns: ...
