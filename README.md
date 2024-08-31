@@ -11,5 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently studying in Harbin Institute Of Tec.
-- 📫 How to reach me: 985025074
+- 🔭 I’m currently a student of computer science.
+- 📫 How to reach me: just make issues.
+- I am looking forward to become a expert in C++.
