@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a student of computer science.
 - 📫 How to reach me: just make issues.
 - I am looking forward to become a expert in C++.
+- # Dont waste time!! Keep learning or Do things meaningful!!!
