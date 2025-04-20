@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently a student of computer science.
 - 📫 How to reach me: just make issues.
-- I am looking forward to become a expert in ~~C++~~ Python and WebDev.~~Currently Studying on TOP project.~~ (have almost finished it,leaving some big projects) Going to learn ts and express deeper
+- I am looking forward to become a expert in ~~C++~~ Python and WebDev.~~Currently Studying on TOP project.~~ (have almost finished it,leaving some big projects)
+- Going to learn ts and express deeper
+- Going to learn React
 
